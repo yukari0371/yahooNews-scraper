@@ -20,7 +20,7 @@ export async function get(category: string): Promise<getResult> {
 
         const categories = [
             "world", "domestic", "business", "it",  "entertainment",
-            "sports", "science", "life", "local", "ddelRows"
+            "sports", "science", "life", "local", "delRows"
         ];
 
         if (!categories.includes(category))
