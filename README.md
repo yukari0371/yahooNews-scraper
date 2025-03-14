@@ -2,7 +2,6 @@
 Scrape Yahoo News XML
 
 ### Usage
-### Example
 ```ts
 import { yahooNews } from "./dist/index";
 
