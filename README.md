@@ -1,4 +1,4 @@
-# discord-status
+# yahooNews-scraper
 Scrape Yahoo News XML
 
 ### Usage
